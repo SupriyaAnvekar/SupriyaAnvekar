@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Supriya Anvekar</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SupriyaAnvekar///main/WhatsApp%20Image%202026-06-04%20at%2011.56.18%20PM.jpeg" width="100%>
+    </p>
+    <h1 align="center">Hi 👋, I'm Supriya Anvekar</h1>
 <h3 align="center">A motivated Computer Science student from India</h3>
 <img align="right" alt="coding"width="400" src="https://img.freepik.com/premium-vector/vector-illustration-girl-with-glasses-working-laptop-computer_1142-113427.jpg"
 
